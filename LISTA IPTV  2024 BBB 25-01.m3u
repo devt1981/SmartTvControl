@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,ACOMPANHE A CASA 
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1262
+#EXTINF:0,BANHEIRO PANTENE
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1261
+#EXTINF:0,BBB 24 4K
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1250
+#EXTINF:0,PISCINA
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1258
+#EXTINF:0,QUARTO FADA
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1257
+#EXTINF:0,QUARTO GNOMO
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1254
+#EXTINF:0,QUARTO MAGIA
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1253
+#EXTINF:0,SALA
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/1255
+#EXTM3U
+#EXTINF:12,REDE TV! (TV O Dia PI)
+#EXTVLCOPT:network-caching=1000
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w2113723359.m3u8
+#EXTINF:29,REDE TV! (TV Pampa RS)
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
+#EXTINF:5,REDE TV! MAIS UMUARAMA
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+#EXTINF:30,REDE TV! PARANÁ
+#EXTVLCOPT:network-caching=1000
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8
+#EXTINF:25,REDE TV! TOCANTINS
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist.m3u8
+#EXTM3U
+#EXTINF:0,GLOBO RJ 4K
+#EXTVLCOPT:network-caching=1000
+http://78.159.119.122:2082/xplus-2-IbVyJT3avl/H0vjOHCjbg/504
